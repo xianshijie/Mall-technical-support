@@ -1,8 +1,16 @@
 # technical-support
 
-Chinese culture is profound and profound, and the world is fascinated. Chinese history books are the crystallization of culture. Every reading will have new discoveries. The mystery in the book, there is an old saying in China that "the book has its own color, such as Yan Ruyu, the book has its own gold“.
+What is the source of water? The importance of water to the human body is self-evident. Do you drink enough water every day? Do you think of drinking water when you are thirsty? Do you often work for work reasons? Forget about drinking water, this app was born to solve these problems.
 
-The original intention of this app is to enable more people who like Chinese culture to better read the crystallization of Chinese history. We will continue to improve more kinds of books and let readers read it.
+[The main function]
+1, free to customize the specific time
+2, timely push settings to drink water time
+3, custom tips and ringtones when pushing
+4, connect the Bluetooth cup to detect the actual amount of drinking water
+
+We often hear that the human body needs 8 cups of water a day, but don't drink too much at one time and don't drink too fast. Follow the principle of a small amount of drinking.
 
 Contact Us If you have any questions about this technical support, you can contact us using the information below.
-Paw6o2@163.com
+c880my@163.com
+
+
